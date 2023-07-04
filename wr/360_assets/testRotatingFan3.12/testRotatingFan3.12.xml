@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/20180708_131957-018.jpg" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" />
+    <control dragSpeed="0.12" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="6" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots>
+    <hotspot id="aboutpaint" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="top,left">
+      <spotinfo txt="&lt;b&gt;Entirely hand-painted&lt;/b&gt;. No prints or stencils are used, making each fan a unique piece of artwork." css="font-family:Georgia;font-size:16px;color:#8F0000;text-align:center;width:200px;padding:15px 15px;border:1px solid #DBDBDB;background-color:rgba(255,255,255,1);" />
+    </hotspot>
+    <hotspot id="aboutwidth" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="bottom,right">
+      <spotinfo txt="The large size fans are &lt;b&gt;a full 5 foot wide&lt;/b&gt; when opened!" css="font-family:Georgia;font-size:16px;color:#8F0000;text-align:center;width:200px;padding:15px 15px;border:1px solid #DBDBDB;background-color:rgba(255,255,255,1);" />
+    </hotspot>
+    <hotspot id="aboutbamboo" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="bottom,center">
+      <spotinfo txt="Bamboo is a symbol of humility, strength and flexability. These &lt;b&gt;natural, traditional materials&lt;/b&gt; give each piece an authentic and unique character." css="font-family:Georgia;font-size:16px;color:#8F0000;text-align:center;width:200px;padding:15px 15px;border:1px solid #DBDBDB;background-color:rgba(255,255,255,1);" />
+    </hotspot>
+  </hotspots>
+  <images rows="1">
+    <image src="images/20180708_131957-018.jpg">
+      <hotspot source="aboutpaint" offsetX="130" offsetY="117" />
+      <hotspot source="aboutwidth" offsetX="450" offsetY="86" />
+    </image>
+    <image src="images/20180708_131957-019.jpg">
+      <hotspot source="aboutpaint" offsetX="135" offsetY="110" />
+      <hotspot source="aboutwidth" offsetX="453" offsetY="93" />
+    </image>
+    <image src="images/20180708_131957-020.jpg">
+      <hotspot source="aboutpaint" offsetX="138" offsetY="102" />
+      <hotspot source="aboutwidth" offsetX="454" offsetY="101" />
+    </image>
+    <image src="images/20180708_131957-021.jpg">
+      <hotspot source="aboutpaint" offsetX="144" offsetY="95" />
+      <hotspot source="aboutwidth" offsetX="454" offsetY="105" />
+    </image>
+    <image src="images/20180708_131957-022.jpg">
+      <hotspot source="aboutpaint" offsetX="151" offsetY="88" />
+      <hotspot source="aboutwidth" offsetX="450" offsetY="112" />
+    </image>
+    <image src="images/20180708_131957-023.jpg">
+      <hotspot source="aboutpaint" offsetX="159" offsetY="81" />
+      <hotspot source="aboutwidth" offsetX="445" offsetY="118" />
+    </image>
+    <image src="images/20180708_131957-024.jpg">
+      <hotspot source="aboutpaint" offsetX="169" offsetY="76" />
+      <hotspot source="aboutwidth" offsetX="443" offsetY="122" />
+    </image>
+    <image src="images/20180708_131957-025.jpg">
+      <hotspot source="aboutpaint" offsetX="184" offsetY="71" />
+      <hotspot source="aboutwidth" offsetX="439" offsetY="125" />
+    </image>
+    <image src="images/20180708_131957-026.jpg">
+      <hotspot source="aboutpaint" offsetX="195" offsetY="68" />
+      <hotspot source="aboutwidth" offsetX="436" offsetY="129" />
+    </image>
+    <image src="images/20180708_131957-027.jpg">
+      <hotspot source="aboutpaint" offsetX="206" offsetY="66" />
+      <hotspot source="aboutwidth" offsetX="430" offsetY="134" />
+    </image>
+    <image src="images/20180708_131957-028.jpg">
+      <hotspot source="aboutpaint" offsetX="217" offsetY="66" />
+      <hotspot source="aboutwidth" offsetX="418" offsetY="139" />
+    </image>
+    <image src="images/20180708_131957-029.jpg">
+      <hotspot source="aboutpaint" offsetX="225" offsetY="67" />
+      <hotspot source="aboutwidth" offsetX="407" offsetY="143" />
+    </image>
+    <image src="images/20180708_131957-030.jpg">
+      <hotspot source="aboutpaint" offsetX="229" offsetY="67" />
+      <hotspot source="aboutwidth" offsetX="397" offsetY="145" />
+    </image>
+    <image src="images/20180708_131957-031.jpg">
+      <hotspot source="aboutpaint" offsetX="231" offsetY="67" />
+      <hotspot source="aboutwidth" offsetX="386" offsetY="145" />
+    </image>
+    <image src="images/20180708_131957-032.jpg">
+      <hotspot source="aboutpaint" offsetX="231" offsetY="67" />
+      <hotspot source="aboutwidth" offsetX="372" offsetY="145" />
+    </image>
+    <image src="images/20180708_131957-033.jpg">
+      <hotspot source="aboutpaint" offsetX="231" offsetY="67" />
+    </image>
+    <image src="images/20180708_131957-034.jpg">
+      <hotspot source="aboutpaint" offsetX="231" offsetY="67" />
+    </image>
+    <image src="images/20180708_131957-035.jpg" />
+    <image src="images/20180708_131957-036.jpg" />
+    <image src="images/20180708_131957-037.jpg" />
+    <image src="images/20180708_131957-038.jpg" />
+    <image src="images/20180708_131957-039.jpg">
+      <hotspot source="aboutbamboo" offsetX="212" offsetY="250" />
+    </image>
+    <image src="images/20180708_131957-040.jpg">
+      <hotspot source="aboutbamboo" offsetX="205" offsetY="250" />
+    </image>
+    <image src="images/20180708_131957-041.jpg">
+      <hotspot source="aboutbamboo" offsetX="198" offsetY="248" />
+    </image>
+    <image src="images/20180708_131957-042.jpg">
+      <hotspot source="aboutbamboo" offsetX="192" offsetY="245" />
+    </image>
+    <image src="images/20180708_131957-043.jpg">
+      <hotspot source="aboutbamboo" offsetX="185" offsetY="243" />
+    </image>
+    <image src="images/20180708_131957-044.jpg">
+      <hotspot source="aboutbamboo" offsetX="179" offsetY="242" />
+    </image>
+    <image src="images/20180708_131957-045.jpg">
+      <hotspot source="aboutbamboo" offsetX="173" offsetY="241" />
+    </image>
+    <image src="images/20180708_131957-046.jpg">
+      <hotspot source="aboutbamboo" offsetX="169" offsetY="240" />
+    </image>
+    <image src="images/20180708_131957-047.jpg">
+      <hotspot source="aboutbamboo" offsetX="167" offsetY="240" />
+    </image>
+    <image src="images/20180708_131957-048.jpg">
+      <hotspot source="aboutbamboo" offsetX="166" offsetY="239" />
+    </image>
+    <image src="images/20180708_131957-049.jpg">
+      <hotspot source="aboutbamboo" offsetX="162" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-050.jpg">
+      <hotspot source="aboutbamboo" offsetX="161" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-051.jpg">
+      <hotspot source="aboutbamboo" offsetX="161" offsetY="237" />
+    </image>
+    <image src="images/20180708_131957-052.jpg">
+      <hotspot source="aboutbamboo" offsetX="162" offsetY="237" />
+    </image>
+    <image src="images/20180708_131957-053.jpg">
+      <hotspot source="aboutbamboo" offsetX="163" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-054.jpg">
+      <hotspot source="aboutbamboo" offsetX="163" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-055.jpg">
+      <hotspot source="aboutbamboo" offsetX="163" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-056.jpg">
+      <hotspot source="aboutbamboo" offsetX="164" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-057.jpg">
+      <hotspot source="aboutbamboo" offsetX="168" offsetY="238" />
+    </image>
+    <image src="images/20180708_131957-058.jpg">
+      <hotspot source="aboutbamboo" offsetX="170" offsetY="239" />
+    </image>
+    <image src="images/20180708_131957-059.jpg">
+      <hotspot source="aboutbamboo" offsetX="175" offsetY="239" />
+    </image>
+    <image src="images/20180708_131957-060.jpg">
+      <hotspot source="aboutbamboo" offsetX="177" offsetY="240" />
+    </image>
+    <image src="images/20180708_131957-061.jpg">
+      <hotspot source="aboutbamboo" offsetX="178" offsetY="240" />
+    </image>
+    <image src="images/20180708_131957-062.jpg">
+      <hotspot source="aboutbamboo" offsetX="182" offsetY="240" />
+    </image>
+    <image src="images/20180708_131957-063.jpg">
+      <hotspot source="aboutbamboo" offsetX="187" offsetY="241" />
+    </image>
+    <image src="images/20180708_131957-064.jpg">
+      <hotspot source="aboutbamboo" offsetX="192" offsetY="242" />
+    </image>
+    <image src="images/20180708_131957-065.jpg">
+      <hotspot source="aboutbamboo" offsetX="196" offsetY="244" />
+    </image>
+    <image src="images/20180708_131957-066.jpg">
+      <hotspot source="aboutbamboo" offsetX="201" offsetY="244" />
+    </image>
+    <image src="images/20180708_131957-067.jpg">
+      <hotspot source="aboutbamboo" offsetX="202" offsetY="246" />
+    </image>
+    <image src="images/20180708_131957-068.jpg">
+      <hotspot source="aboutbamboo" offsetX="204" offsetY="246" />
+    </image>
+    <image src="images/20180708_131957-069.jpg">
+      <hotspot source="aboutbamboo" offsetX="204" offsetY="246" />
+    </image>
+    <image src="images/20180708_131957-070.jpg">
+      <hotspot source="aboutbamboo" offsetX="205" offsetY="246" />
+    </image>
+    <image src="images/20180708_131957-071.jpg">
+      <hotspot source="aboutbamboo" offsetX="207" offsetY="245" />
+    </image>
+    <image src="images/20180708_131957-072.jpg" />
+    <image src="images/20180708_131957-073.jpg" />
+    <image src="images/20180708_131957-074.jpg" />
+    <image src="images/20180708_131957-075.jpg" />
+    <image src="images/20180708_131957-076.jpg" />
+    <image src="images/20180708_131957-077.jpg" />
+    <image src="images/20180708_131957-078.jpg" />
+    <image src="images/20180708_131957-079.jpg" />
+    <image src="images/20180708_131957-080.jpg" />
+    <image src="images/20180708_131957-081.jpg" />
+    <image src="images/20180708_131957-082.jpg" />
+    <image src="images/20180708_131957-083.jpg" />
+    <image src="images/20180708_131957-084.jpg" />
+    <image src="images/20180708_131957-085.jpg">
+      <hotspot source="aboutpaint" offsetX="188" offsetY="162" />
+    </image>
+    <image src="images/20180708_131957-086.jpg">
+      <hotspot source="aboutpaint" offsetX="181" offsetY="163" />
+    </image>
+    <image src="images/20180708_131957-087.jpg">
+      <hotspot source="aboutpaint" offsetX="176" offsetY="163" />
+    </image>
+    <image src="images/20180708_131957-088.jpg">
+      <hotspot source="aboutpaint" offsetX="171" offsetY="164" />
+    </image>
+    <image src="images/20180708_131957-089.jpg">
+      <hotspot source="aboutpaint" offsetX="163" offsetY="165" />
+    </image>
+    <image src="images/20180708_131957-090.jpg">
+      <hotspot source="aboutpaint" offsetX="159" offsetY="165" />
+    </image>
+    <image src="images/20180708_131957-091.jpg">
+      <hotspot source="aboutpaint" offsetX="153" offsetY="166" />
+    </image>
+    <image src="images/20180708_131957-092.jpg">
+      <hotspot source="aboutpaint" offsetX="145" offsetY="163" />
+    </image>
+    <image src="images/20180708_131957-093.jpg">
+      <hotspot source="aboutpaint" offsetX="138" offsetY="160" />
+    </image>
+    <image src="images/20180708_131957-094.jpg">
+      <hotspot source="aboutpaint" offsetX="131" offsetY="156" />
+      <hotspot source="aboutwidth" offsetX="412" offsetY="61" />
+    </image>
+    <image src="images/20180708_131957-095.jpg">
+      <hotspot source="aboutpaint" offsetX="128" offsetY="151" />
+      <hotspot source="aboutwidth" offsetX="416" offsetY="62" />
+    </image>
+    <image src="images/20180708_131957-096.jpg">
+      <hotspot source="aboutpaint" offsetX="126" offsetY="144" />
+      <hotspot source="aboutwidth" offsetX="420" offsetY="65" />
+    </image>
+    <image src="images/20180708_131957-097.jpg">
+      <hotspot source="aboutpaint" offsetX="125" offsetY="137" />
+      <hotspot source="aboutwidth" offsetX="424" offsetY="67" />
+    </image>
+    <image src="images/20180708_131957-098.jpg">
+      <hotspot source="aboutpaint" offsetX="125" offsetY="129" />
+      <hotspot source="aboutwidth" offsetX="431" offsetY="72" />
+    </image>
+    <image src="images/20180708_131957-100.jpg">
+      <hotspot source="aboutpaint" offsetX="128" offsetY="123" />
+      <hotspot source="aboutwidth" offsetX="443" offsetY="81" />
+    </image>
+  </images>
+</config>

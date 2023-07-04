@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/198.jpg" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="false" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="true" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots>
+    <hotspot id="bamboo" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="top,left">
+      <spotinfo txt="Bamboo is cut and stripped into precise pieces by hand then the pieces are assembled by hand into a mobile, collapsible frame. Bamboo ribs are then hand-stitched together with needle and thread. 28 pairs of ribs and stretchers are used for a 35&quot; umbrella." css="font-family:Georgia;font-size:16px;color:#990000;text-align:center;width:250px;padding:15px 15px;border:1px solid #EEEEEE;background-color:rgba(255,255,255,0.7);" />
+    </hotspot>
+    <hotspot id="cotton" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="center,right">
+      <spotinfo txt="Cotton fabric is cut to size in a rough circle and a solution of water, flour and &quot;Luuk Tago&quot; fruit is prepared.&#xD;&#xA;&#xD;&#xA;What is Luuk Tago?  1) Tago makes the cotton adhere to the bamboo frame very well, and 2) Tago aids in the weatherproofing of the umbrella, making it much stiffer and more durable than it otherwise would be. " css="font-family:Georgia;font-size:16px;color:#990000;text-align:center;width:250px;padding:15px 15px;border:1px solid #EEEEEE;background-color:rgba(255,255,255,0.7);" />
+    </hotspot>
+    <hotspot id="shade" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="top,left">
+      <spotinfo txt="Once semi-dry, the fabric shade is durable but still pliable. The umbrellas are folded down by hand and each section between the ribs is folded in, bound with a cloth and left to thoroughly dry." css="font-family:Georgia;font-size:16px;color:#990000;text-align:center;width:250px;padding:15px 15px;border:1px solid #EEEEEE;background-color:rgba(255,255,255,0.7);" />
+    </hotspot>
+    <hotspot id="painting" renderMode="0" indicatorImage="circ-cross-large-blue.svg" margin="0,0,0,0" align="center,left">
+      <spotinfo txt="The umbrella gets the attention of the detail artist who hand paints the design in a wide variety of colors. Paintings are done completely by hand--no two pieces are ever exactly alike!" css="font-family:Georgia;font-size:16px;color:#990000;text-align:center;width:250px;padding:15px 15px;border:1px solid #EEEEEE;background-color:rgba(255,255,255,0.7);" />
+    </hotspot>
+  </hotspots>
+  <images rows="1">
+    <image src="images/198.jpg" />
+    <image src="images/199.jpg">
+      <hotspot source="bamboo" offsetX="427" offsetY="97" />
+    </image>
+    <image src="images/200.jpg">
+      <hotspot source="bamboo" offsetX="459" offsetY="101" />
+    </image>
+    <image src="images/201.jpg">
+      <hotspot source="bamboo" offsetX="483" offsetY="114" />
+    </image>
+    <image src="images/202.jpg">
+      <hotspot source="bamboo" offsetX="495" offsetY="139" />
+    </image>
+    <image src="images/203.jpg">
+      <hotspot source="bamboo" offsetX="498" offsetY="151" />
+    </image>
+    <image src="images/204.jpg">
+      <hotspot source="bamboo" offsetX="497" offsetY="168" />
+    </image>
+    <image src="images/205.jpg">
+      <hotspot source="bamboo" offsetX="493" offsetY="179" />
+    </image>
+    <image src="images/206.jpg">
+      <hotspot source="bamboo" offsetX="487" offsetY="185" />
+    </image>
+    <image src="images/207.jpg">
+      <hotspot source="bamboo" offsetX="481" offsetY="190" />
+    </image>
+    <image src="images/208.jpg">
+      <hotspot source="bamboo" offsetX="445" offsetY="204" />
+    </image>
+    <image src="images/209.jpg">
+      <hotspot source="bamboo" offsetX="425" offsetY="207" />
+    </image>
+    <image src="images/210.jpg">
+      <hotspot source="bamboo" offsetX="413" offsetY="207" />
+    </image>
+    <image src="images/211.jpg">
+      <hotspot source="bamboo" offsetX="405" offsetY="206" />
+    </image>
+    <image src="images/212.jpg">
+      <hotspot source="bamboo" offsetX="392" offsetY="201" />
+    </image>
+    <image src="images/213.jpg">
+      <hotspot source="bamboo" offsetX="369" offsetY="190" />
+    </image>
+    <image src="images/214.jpg">
+      <hotspot source="bamboo" offsetX="352" offsetY="176" />
+    </image>
+    <image src="images/220.jpg">
+      <hotspot source="bamboo" offsetX="343" offsetY="159" />
+    </image>
+    <image src="images/221.jpg">
+      <hotspot source="bamboo" offsetX="349" offsetY="145" />
+    </image>
+    <image src="images/222.jpg" />
+    <image src="images/223.jpg">
+      <hotspot source="cotton" offsetX="448" offsetY="170" />
+    </image>
+    <image src="images/224.jpg">
+      <hotspot source="cotton" offsetX="375" offsetY="196" />
+    </image>
+    <image src="images/225.jpg">
+      <hotspot source="cotton" offsetX="301" offsetY="195" />
+    </image>
+    <image src="images/226.jpg">
+      <hotspot source="cotton" offsetX="207" offsetY="157" />
+    </image>
+    <image src="images/227.jpg">
+      <hotspot source="cotton" offsetX="181" offsetY="123" />
+    </image>
+    <image src="images/228.jpg">
+      <hotspot source="cotton" offsetX="176" offsetY="87" />
+    </image>
+    <image src="images/229.jpg">
+      <hotspot source="cotton" offsetX="212" offsetY="66" />
+    </image>
+    <image src="images/230.jpg">
+      <hotspot source="cotton" offsetX="249" offsetY="77" />
+    </image>
+    <image src="images/231.jpg">
+      <hotspot source="cotton" offsetX="282" offsetY="101" />
+    </image>
+    <image src="images/232.jpg">
+      <hotspot source="cotton" offsetX="307" offsetY="134" />
+    </image>
+    <image src="images/233.jpg">
+      <hotspot source="cotton" offsetX="324" offsetY="161" />
+    </image>
+    <image src="images/234.jpg">
+      <hotspot source="cotton" offsetX="333" offsetY="184" />
+    </image>
+    <image src="images/235.jpg">
+      <hotspot source="cotton" offsetX="335" offsetY="203" />
+    </image>
+    <image src="images/236.jpg">
+      <hotspot source="cotton" offsetX="329" offsetY="213" />
+    </image>
+    <image src="images/237.jpg">
+      <hotspot source="cotton" offsetX="319" offsetY="213" />
+    </image>
+    <image src="images/238.jpg">
+      <hotspot source="cotton" offsetX="310" offsetY="212" />
+      <hotspot source="shade" offsetX="245" offsetY="366" />
+    </image>
+    <image src="images/239.jpg">
+      <hotspot source="shade" offsetX="213" offsetY="383" />
+    </image>
+    <image src="images/240.jpg">
+      <hotspot source="shade" offsetX="190" offsetY="391" />
+    </image>
+    <image src="images/241.jpg">
+      <hotspot source="shade" offsetX="178" offsetY="388" />
+    </image>
+    <image src="images/242.jpg">
+      <hotspot source="shade" offsetX="167" offsetY="378" />
+    </image>
+    <image src="images/249.jpg">
+      <hotspot source="shade" offsetX="154" offsetY="350" />
+    </image>
+    <image src="images/250.jpg">
+      <hotspot source="shade" offsetX="143" offsetY="308" />
+    </image>
+    <image src="images/251.jpg">
+      <hotspot source="shade" offsetX="143" offsetY="262" />
+    </image>
+    <image src="images/252.jpg">
+      <hotspot source="shade" offsetX="150" offsetY="229" />
+    </image>
+    <image src="images/253.jpg">
+      <hotspot source="shade" offsetX="167" offsetY="198" />
+    </image>
+    <image src="images/254.jpg">
+      <hotspot source="shade" offsetX="182" offsetY="182" />
+    </image>
+    <image src="images/255.jpg">
+      <hotspot source="shade" offsetX="203" offsetY="170" />
+      <hotspot source="painting" offsetX="573" offsetY="341" />
+    </image>
+    <image src="images/256.jpg">
+      <hotspot source="shade" offsetX="246" offsetY="154" />
+      <hotspot source="painting" offsetX="551" offsetY="380" />
+    </image>
+    <image src="images/257.jpg">
+      <hotspot source="shade" offsetX="276" offsetY="151" />
+      <hotspot source="painting" offsetX="517" offsetY="423" />
+    </image>
+    <image src="images/258.jpg">
+      <hotspot source="painting" offsetX="464" offsetY="469" />
+    </image>
+    <image src="images/259.jpg">
+      <hotspot source="painting" offsetX="397" offsetY="512" />
+    </image>
+    <image src="images/260.jpg">
+      <hotspot source="painting" offsetX="338" offsetY="539" />
+    </image>
+    <image src="images/261.jpg">
+      <hotspot source="painting" offsetX="296" offsetY="554" />
+    </image>
+    <image src="images/262.jpg">
+      <hotspot source="painting" offsetX="268" offsetY="559" />
+    </image>
+    <image src="images/263.jpg">
+      <hotspot source="painting" offsetX="238" offsetY="556" />
+    </image>
+    <image src="images/264.jpg">
+      <hotspot source="painting" offsetX="207" offsetY="546" />
+    </image>
+    <image src="images/265.jpg">
+      <hotspot source="painting" offsetX="179" offsetY="535" />
+    </image>
+    <image src="images/266.jpg">
+      <hotspot source="painting" offsetX="150" offsetY="518" />
+    </image>
+    <image src="images/267.jpg">
+      <hotspot source="painting" offsetX="140" offsetY="507" />
+    </image>
+  </images>
+</config>
