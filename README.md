@@ -1,0 +1,1 @@
+This is an early experiment with 3d product images. Two products are displayed with various features highlighted. The umbrella was used in an authoratative blog post explaining the creation of handmade umbrellas. 
